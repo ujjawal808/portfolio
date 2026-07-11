@@ -36,10 +36,10 @@ function App() {
           Passionate about Java, Data Structures & Algorithms, Full Stack Development, and building modern, responsive web applications.
         </p>
 
-        <a
-    href="/Ujjawal_Baliyan_Resume.pdf"
-     download
-     className="resume-btn"
+       <a
+  href="/Ujjawal_Baliyan_Resume.pdf"
+  download
+  className="resume-btn"
 >
   Download Resume
 </a>
