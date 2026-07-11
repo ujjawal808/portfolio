@@ -37,7 +37,7 @@ function App() {
         </p>
 
        <a
-  href="/Ujjawal_Baliyan_Resume.pdf"
+  href="/resume.pdf"
   download
   className="resume-btn"
 >
