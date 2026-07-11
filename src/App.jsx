@@ -278,14 +278,14 @@ Java • DSA • GitHub
   <h2>Contact Me</h2>
 
   <p>
-   📧 Email
+   📧 Email:
     <a href="mailto:ubaliyan808@gmail.com">
       ubaliyan808@gmail.com
     </a>
   </p>
 
   <p>
-   🐙 GitHub
+   🐙 GitHub:
     <a
       href="https://github.com/ujjawal808"
       target="_blank"
@@ -296,7 +296,7 @@ Java • DSA • GitHub
   </p>
 
   <p>
-    💼 LinkedIn
+    💼 LinkedIn:
     <a
       href="https://linkedin.com/in/ujjawal808"
       target="_blank"
@@ -307,7 +307,7 @@ Java • DSA • GitHub
   </p>
 
   <p>
-  🏆 LeetCode
+  🏆 LeetCode:
     <a
       href="https://leetcode.com/u/Ujjawalbaliyan"
       target="_blank"
